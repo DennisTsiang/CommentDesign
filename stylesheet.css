@@ -1,0 +1,48 @@
+.box
+{
+	border-width: 2px;
+	border-top-style: solid ;
+	border-bottom-style: solid;
+	border-color: #EEEEEE;
+	display: block;
+	height: 74px;
+	width: 400px;
+	background-color: #F7F7F7
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.avatar
+{
+	float:left;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	height: 54px;
+	width: 54px;
+}
+
+.username
+{
+	font-weight: bold;
+	padding-left: 80px;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.comment
+{
+	position: relative;
+	top: -10px;
+	padding-left: 80px;
+	font-family: helvetica;
+	font-size: 12px;
+}
+
+.userref
+{
+	color: #59778B;
+}
